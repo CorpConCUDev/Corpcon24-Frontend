@@ -1,1 +1,2 @@
-# Corpcon24-Frontend
+# corpcon-frontend
+React + MUI webapp

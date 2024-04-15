@@ -1,0 +1,23 @@
+.wrapper {
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: "Roboto Mono", monospace;
+  color: white;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "roboto";
+  color: white;
+}
+
+.please-wait {
+  padding-top: 10px;
+}
